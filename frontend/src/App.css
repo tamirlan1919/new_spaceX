@@ -1,0 +1,16 @@
+.App {
+  font-family: 'MuseoSansCyrl';
+  src: '../public/museosanscyrl_100.otf';
+  font-style: normal;
+  font-weight: normal;
+  background: url('../public/фон.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 1;
+height: auto;
+}
+
+body,html{
+  overflow-x: hidden;
+}
